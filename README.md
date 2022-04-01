@@ -7,7 +7,7 @@ Full details are available in the [slides](./slides.pdf) or in the [report](./re
 
 # Abstract
 **Salient Object Detection** (SOD) is an emerging field in Computer Vision whose goal is to identify the most relevant objects in natural scenes, emulating the human vision system.
-We developed a **new model** (BAS2Net) that combines two state‐of‐the‐art works in the Salient Object Detection field ([BASNet](https://openaccess.thecvf.com/content_CVPR_2019/papers/Qin_BASNet_Boundary-Aware_Salient_Object_Detection_CVPR_2019_paper.pdf) and [Res2Net](https://arxiv.org/pdf/1904.01169v3.pdf)). The resulting model requires 40% less training time, leading to better results on several datasets. Moreover, the proposed neural network is half the size of the original one. 
+We developed a _new model_ (**BAS2Net**) that combines two state‐of‐the‐art works in the Salient Object Detection field ([BASNet](https://openaccess.thecvf.com/content_CVPR_2019/papers/Qin_BASNet_Boundary-Aware_Salient_Object_Detection_CVPR_2019_paper.pdf) and [Res2Net](https://arxiv.org/pdf/1904.01169v3.pdf)). The resulting model requires 40% less training time, leading to better results on several datasets. Moreover, the proposed neural network is half the size of the original one. 
 
 # Introduction
 Salient Object Detection consists of two phases. First, input images are analyzed to detect the most significant object(s), and then they are accurately segmented based on the previous detection step. In SOD, it is essential to _understand the global image without neglecting more minor details_, which can be very relevant, especially in the segmentation step.
