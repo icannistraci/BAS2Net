@@ -1,5 +1,5 @@
 # Salient Object Detection: Bas2Net
-Project for [Advanced Machine Learning](https://sites.google.com/di.uniroma1.it/aml-2021-2022) courses (A.Y. 2019/2020).
+Project for [Advanced Machine Learning](https://sites.google.com/di.uniroma1.it/aml-2021-2022) course (A.Y. 2019/2020).
 
 **Authors**: Irene Cannistraci and Giovanni Ficarra ([@GioFic95](https://github.com/GioFic95)).
 
